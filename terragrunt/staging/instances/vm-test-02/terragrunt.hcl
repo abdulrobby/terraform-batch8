@@ -10,5 +10,5 @@ inputs = {
   tags         = ["http-server"]
   network      = "default"
   subnetwork   = "default"
-  public_ip    = false
+  public_ip    = true
 }
