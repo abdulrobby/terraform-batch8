@@ -7,7 +7,7 @@ include {
 }
 
 inputs = {
-  tags         = ["backend"]
+  tags         = ["backend-server"]
   network      = "default"
   subnetwork   = "default"
   public_ip    = true
